@@ -4,4 +4,6 @@
 
 ## 02 -> Stopwatch
 
-## 03 -> Todo List With Redux
+## 03 -> Currency Converter
+
+## 04 -> Todo List With Redux
