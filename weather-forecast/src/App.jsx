@@ -12,7 +12,7 @@ function App() {
   const [weather, setWeather] = useState(null);
   const [forecast, setForecast] = useState([]);
 
-  const apiKey = "9eae7e50927ac661bda09a1cdfb92265";
+  const apiKey = "your_openweather_token";
 
   useEffect(() => {
     navigator.geolocation.getCurrentPosition(async (position) => {
