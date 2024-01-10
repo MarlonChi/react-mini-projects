@@ -8,4 +8,6 @@
 
 ## 04 -> Weather Forecast
 
-## 05 -> Todo List With Redux
+## 05 -> Quotes Generator
+
+## 06 -> Todo List With Redux
