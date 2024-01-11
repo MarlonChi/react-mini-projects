@@ -10,4 +10,6 @@
 
 ## 05 -> Quotes Generator
 
-## 06 -> Todo List With Redux
+## 06 -> Photo Gallery
+
+## 07 -> Todo List With Redux
