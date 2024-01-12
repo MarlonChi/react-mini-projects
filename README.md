@@ -12,4 +12,6 @@
 
 ## 06 -> Photo Gallery
 
-## 07 -> Todo List With Redux
+## 07 -> Markdown Viewer
+
+## 08 -> Todo List With Redux
