@@ -29,3 +29,5 @@
 ## 14 -> Carousel
 
 ## 15 -> Sortable Table
+
+## 16 -> Infinite Scroll
